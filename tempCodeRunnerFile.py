@@ -1,0 +1,1 @@
+def increase_snake(self):
